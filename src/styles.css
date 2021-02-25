@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  background-color: #c6a9a3;
+}
+
+div {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #b68973;
+}
+
+button {
+  padding: 15px 20px;
+  background: #b68973;
+  color: white;
+  border: 2px solid #ecf0f1;
+  outline: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
